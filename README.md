@@ -4,8 +4,15 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🌱 About Me
+🔹 **Profession:** [Your Role]  
+🔹 **Expertise:** [Your Core Skills]  
+🔹 **Learning:** [New Techs, Languages, or Concepts]  
+🔹 **Interests:** [Tech, Hobbies, or Fields of Interest]  
 
+---
+
+## 🛠️ Tech Stack & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -15,21 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuna-Hasada&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuna-Hasada&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuna-Hasada&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
+## 🔥 Featured Work
 <div align="center">
   <a href="[Project1-URL]">
     <img align="center" src="[Project1-Image-URL]" width="300" height="auto" />
@@ -41,8 +34,19 @@
 
 ---
 
-### 📫 Let's Connect!
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuna-Hasada&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuna-Hasada&layout=compact&theme=radical" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuna-Hasada&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 👫 Let's Connect!
 <div align="center">
   <a href="[Your-LinkedIn-URL]">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
@@ -64,4 +68,4 @@
   <img src="https://komarev.com/ghpvc/?username=Kuna-Hasada&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
-⭐ From [YourUsername](https://github.com/Kuna-Hasada)
+🌟 From [Kuna-Hasada](https://github.com/Kuna-Hasada)
