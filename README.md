@@ -13,24 +13,26 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-ML-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-React-blue?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Node.js-green?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-ML-red?style=flat&logo=tensorflow&logoColor=white" />
+</div>
 
 ---
 
 ## 🔥 Featured Work
 <div align="center">
   <a href="[Waste-Management-Project-URL]">
-    <img align="center" src="[Waste-Management-Image-URL]" width="300" height="auto" />
+    <img src="[Waste-Management-Image-URL]" width="300" height="auto" alt="Waste Management Project"/>
   </a>
   <a href="[Maize-Disease-Detection-URL]">
-    <img align="center" src="[Maize-Disease-Image-URL]" width="300" height="auto" />
+    <img src="[Maize-Disease-Image-URL]" width="300" height="auto" alt="Maize Disease Detection"/>
   </a>
 </div>
 
