@@ -18,12 +18,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Kuna-Hasada]&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Kuna-Hasada]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuna-Hasada&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuna-Hasada&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Kuna-Hasada]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuna-Hasada&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Kuna-Hasada]&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kuna-Hasada&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
-⭐ From [YourUsername](https://github.com/[Kuna-Hasada])
+⭐ From [YourUsername](https://github.com/Kuna-Hasada)
