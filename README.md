@@ -27,10 +27,10 @@
  <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kuna-Hasada" />
  </a>
- <a href="https://linkedin.com/in/kunal" target="_blank">
+ <a href="http://www.linkedin.com/in/kuna-hasada-28aa8a271" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kuna-Hasada"/>
  </a>
- <a href="#" target="_blank">
+ <a href="https://x.com/kunahasada?t=serw6Z9wg1rPXoctzwZtQA&s=09" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Kuna-Hasada" />
  </a>
  <a href="#" target="_blank">
