@@ -90,13 +90,13 @@
 
 ## Top Open Source -
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/itasks)
+[![E-Commerce by Group](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=e-commerce_by_group&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/e-commerce_by_group)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/urfolio)
+[![MERN Auth](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=mern-auth&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/mern-auth)
 
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/web-projects)
+[![Demo Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=demo_project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/demo_project1)
 
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/alsiam)
+[![Local Repo](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=localrepo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/localrepo)
 
 <p align="left">
   <a href="https://github.com/Kuna-Hasada?tab=repositories" target="_blank">
@@ -110,6 +110,6 @@
 
 <p align="center">
   <a href="https://github.com/Kuna-Hasada">
-    <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=Kuna-Hasada&custom_title=Kuna-Hasada's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true\" alt=\"Kuna-Hasada's GitHub Activity Graph\"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuna-Hasada&custom_title=Kuna-Hasada's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Kuna-Hasada's GitHub Activity Graph"/>
   </a>
 </p>
