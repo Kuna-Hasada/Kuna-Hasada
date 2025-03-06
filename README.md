@@ -47,7 +47,7 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
- 📧 &emsp; Reach me anytime: kuna.hasada@example.com<br/><br/>
+ 📧 &emsp; Reach me anytime: kunahasada@gmail.com<br/><br/>
 </p>
 
 <br/>
@@ -90,9 +90,9 @@
 
 ## Top Open Source -
 
-[![E-Commerce by Group](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=e-commerce_by_group&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/e-commerce_by_group)
+[![E-Commerce by Group](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=e-commerce_by_group&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Kuna-Hasada/e-commerce_by_group](https://github.com/Kuna-Hasada/e-commerce_by_group))
 
-[![MERN Auth](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=mern-auth&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/mern-auth)
+[![MERN Auth](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=mern-auth&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Kuna-Hasada/mern-auth](https://github.com/Kuna-Hasada/mern-auth))
 
 [![Demo Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=demo_project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/demo_project1)
 
