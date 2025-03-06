@@ -90,24 +90,11 @@
 
 ## Top Open Source -
 
-<table>
-  <tr>
-    <td align="center">
-      [![E-Commerce by Group](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=e-commerce_by_group&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/e-commerce_by_group)
-    </td>
-    <td align="center">
-      [![MERN Auth](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=mern-auth&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/mern-auth)
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      [![Demo Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=demo_project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/demo_project1)
-    </td>
-    <td align="center">
-      [![Local Repo](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=localrepo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/localrepo)
-    </td>
-  </tr>
-</table>
+
+[![Demo Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=demo_project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/demo_project1)
+
+[![Local Repo](https://github-readme-stats.vercel.app/api/pin/?username=Kuna-Hasada&repo=localrepo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kuna-Hasada/localrepo)
+
 
 <p align="left">
   <a href="https://github.com/Kuna-Hasada?tab=repositories" target="_blank">
